@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color:whitesmoke;
+}
+p{
+    color: rgb(103, 235, 103);
+    font-size: 30px;
+}
+h4{
+    color: rgb(126, 126, 224);
+}
+h2 , h1{
+    text-align:center;
+    background-color:aliceblue;
+}
